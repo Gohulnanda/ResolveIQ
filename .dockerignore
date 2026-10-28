@@ -1,0 +1,6 @@
+.venv
+.git
+.env
+tests
+models/*.joblib
+__pycache__

@@ -1,0 +1,36 @@
+ticket_id,title,description,category,source
+CH-001,Can't get online from home,"I'm working remotely and the company tunnel just spins then gives up. Home internet is fine for everything else.",Network,hand-written
+CH-002,Office wifi terrible today,"Video calls keep freezing and pages take forever to load. Seems to be everyone on the third floor.",Network,hand-written
+CH-003,Intranet won't open,"Typing the portal address gives a server not found message but search engines work.",Network,hand-written
+CH-004,Dead network socket,"The wall socket by my desk gives nothing when I plug my laptop in, no lights at all.",Network,hand-written
+CH-005,Latency to the data centre,"Traceroute shows huge delays after the second hop and some timeouts, started after yesterday's change window.",Network,hand-written
+CH-006,Laptop dead,"Pressed the power button and nothing happens, charger light is on though.",Hardware,hand-written
+CH-007,Screen cracked,"Dropped my laptop and now there's a crack across the display and a black bar on the left.",Hardware,hand-written
+CH-008,Can't print anything,"The big printer by reception says error and the queue is stuck with eight jobs.",Hardware,hand-written
+CH-009,Strange beeping at startup,"Desktop makes three beeps and the monitor stays black when I switch it on.",Hardware,hand-written
+CH-010,Headset not recognised,"My USB headset is not showing up as a device even on another port.",Hardware,hand-written
+CH-011,Spreadsheet app keeps crashing,"Every time I open the quarterly workbook the program disappears with no message.",Software,hand-written
+CH-012,Need PDF editor installed,"Please install the PDF editor on my machine, the software centre says the package failed.",Software,hand-written
+CH-013,Update broke our tool,"Since Tuesday's patch the CRM client throws an unhandled exception when I click save.",Software,hand-written
+CH-014,Computer crawling,"Everything takes minutes to open and the fan runs constantly, task manager shows a sync client at 90% cpu.",Software,hand-written
+CH-015,Licence expired,"The engineering suite says the licence has expired and refuses to start.",Software,hand-written
+CH-016,Locked out,"Typed the wrong password too many times and now the sign-in screen says try again later.",Account and Access,hand-written
+CH-017,Need finance folder access,"I moved to accounts payable and need to be able to open the invoices share.",Account and Access,hand-written
+CH-018,Phone codes not working,"The six digit codes from my phone app are always rejected since I got a new handset.",Account and Access,hand-written
+CH-019,New starter account,"Please create an account and mailbox for our new analyst starting on the first.",Account and Access,hand-written
+CH-020,Can't sign into expenses system,"Single sign-on redirects me back to the login page in a loop.",Account and Access,hand-written
+CH-021,Reports are timing out,"The sales dashboard query against the warehouse runs for ten minutes and then errors.",Database,hand-written
+CH-022,Cannot reach the SQL server,"Our service gets connection refused when it tries to talk to the database host.",Database,hand-written
+CH-023,Backup failed,"Last night's full backup of the orders database failed and the log mentions no space left.",Database,hand-written
+CH-024,Deadlocks again,"The batch job fails with transaction deadlock errors every few minutes.",Database,hand-written
+CH-025,Replica is behind,"Read replica lag is above fifteen minutes and customers see stale data.",Database,hand-written
+CH-026,Mail not arriving,"I have not received any email since this morning and my inbox says offline.",Email and Collaboration,hand-written
+CH-027,Teams audio,"Nobody can hear me on calls even though my headset works elsewhere.",Email and Collaboration,hand-written
+CH-028,Out of mailbox space,"I keep getting a message telling me my mailbox is full and I cannot send.",Email and Collaboration,hand-written
+CH-029,Calendar sync issue,"Meetings I create on my laptop do not appear on my phone.",Email and Collaboration,hand-written
+CH-030,Shared inbox gone,"The team inbox disappeared from my Outlook folder list overnight.",Email and Collaboration,hand-written
+CH-031,Desk move next week,"My team is moving to the fourth floor, who handles moving phones and docking stations?",Other,hand-written
+CH-032,Question about laptop refresh,"When is my laptop due for replacement and how do I request one?",Other,hand-written
+CH-033,Training request,"Can we arrange a short session on the collaboration tools for the new interns?",Other,hand-written
+CH-034,Leaver equipment,"One of our staff is leaving on Friday, what is the process for collecting their kit?",Other,hand-written
+CH-035,Helpdesk hours,"What are the opening hours for the IT service desk over the holidays?",Other,hand-written

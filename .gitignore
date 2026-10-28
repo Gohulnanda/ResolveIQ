@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+
+# Generated artifacts (recreated by scripts/train_model.py or on first start)
+models/*.joblib
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
